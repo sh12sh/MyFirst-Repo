@@ -1,1 +1,2 @@
-This is version 1 of my software.  edit 2
+This is version 1 of my software.  edit 2. 
+Editing manually by github
